@@ -2,7 +2,7 @@
 
 ## Sobre mim
 - Meu nome é Eduardo Dantas
-- Tenho 24 anos
+- Tenho 25 anos
 - Atualmente, estou cursando Análise e Desenvolvimento de Sistemas
 
 ## Habilidades e Interesses
