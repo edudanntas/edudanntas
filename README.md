@@ -1,17 +1,8 @@
-<h1 align="left">Olá, Eu sou o Eduardo 👨‍💻</h1>
+<h1 align="left">Olá, Eu sou o Eduardo 😁</h1>
 
-###
-
-<p align="left"> Desenvolvedor Fullstack com raízes no Front-End! Comecei minha jornada no desenvolvimento web pelo Front-End, onde criava projetos com React e outras ferramentas. Hoje, sou um desenvolvedor Fullstack, mas minha verdadeira paixão está no Back-End, onde exploro todo o potencial de linguagens como Java e frameworks robustos. </p>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">📚 Atualmente, atuo com Java, Angular, Docker e Kubernetes e estou no penúltimo semestre da faculdade.<br>🛠 Trabalho com arquitetura de microserviços e também estou explorando o mundo do DevOps, que tem me chamado muita atenção.<br>🎲 Fun fact: Sou fascinado por Cybersecurity e já fiz cursos como Introdução ao Hacking e Pentest, além de participar de eventos como o GloboSecWeek da Globo.</p>
-
+## Sobre mim
+- 👨‍💻 Software Developer @[Ericsson](https://www.ericsson.com/en)
+- 🎓 Graduated in Systems Analysis and Development
 ###
 
 <h3 align="left">Se conecte comigo:</h3>
