@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Eduardo 😁</h1>
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Software+Developer+%40+Ericsson;Turning+ideas+into+code+%E2%9A%99%EF%B8%8F;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Software+Engineer+%40+Ericsson;Turning+ideas+into+code" alt="Typing SVG" /></a>
 
 ## About Me
 - 👨‍💻 Mid-level Software Engineer @[Ericsson](https://www.ericsson.com/en), working on BCSS services
